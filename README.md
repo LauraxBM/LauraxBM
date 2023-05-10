@@ -7,7 +7,12 @@
 # Sobre mí 
 
 - Actualmente estoy estudiando Ingeniería Informática por la mención de Tecnologías de la Información en la Universidad de Valladolid.
-- 
+- Estoy interesada en aprender cosas nuevas sobre ciberseguridad y las nuevas tecnologías.  
+
+<br>
+
+
+# Contacta conmigo
 
 <!--
 **LauraxBM/LauraxBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
