@@ -1,4 +1,13 @@
-### Hi there 👋
+# Bienvenidos a mi perfil en GitHub! :woman_student: :rocket:
+
+¡Hola! Soy Laura, una estudiante de Ingeniería Informática apasionada por la ciberseguridad y la tecnología. En mi tiempo libre me gusta aprender cosas nuevas para seguir mejorando mis habilidades.  
+
+<br>
+
+# Sobre mí 
+
+- Actualmente estoy estudiando Ingeniería Informática por la mención de Tecnologías de la Información en la Universidad de Valladolid.
+- 
 
 <!--
 **LauraxBM/LauraxBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
