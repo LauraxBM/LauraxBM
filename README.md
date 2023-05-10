@@ -1,10 +1,10 @@
-# Bienvenidos a mi perfil en GitHub! :woman_student: :rocket:
+# Bienvenidos a mi perfil en GitHub! 👩🏻‍🎓 :rocket:
 
 ¡Hola! Soy Laura, una estudiante de Ingeniería Informática apasionada por la ciberseguridad y la tecnología. En mi tiempo libre me gusta aprender cosas nuevas para seguir mejorando mis habilidades.  
 
 <br>
 
-# Sobre mí 
+# Sobre mí 👩🏻‍💻
 
 - Actualmente estoy estudiando Ingeniería Informática por la mención de Tecnologías de la Información en la Universidad de Valladolid.
 - Estoy interesada en aprender cosas nuevas sobre ciberseguridad y las nuevas tecnologías.  
@@ -12,9 +12,13 @@
 <br>
 
 
-# Contacta conmigo
+# Contacta conmigo 📩
 
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](laurabezmat@gmail.com)
+![Correo](https://img.shields.io/badge/EMAIL-laurabezmat@gmail.com_-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=101010)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Laura_Bezanilla-1877F2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010)](http://www.linkedin.com/in/laura-bezanilla-matell%C3%A1n)
 
 
 
