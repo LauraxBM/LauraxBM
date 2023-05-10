@@ -1,6 +1,6 @@
 # Bienvenidos a mi perfil en GitHub! 👩🏻‍🎓 :rocket:
 
-¡Hola! Soy Laura, una estudiante de Ingeniería Informática apasionada por la ciberseguridad y la tecnología. En mi tiempo libre me gusta aprender cosas nuevas para seguir mejorando mis habilidades.  
+¡Hola! Soy Laura, una estudiante de Ingeniería Informática interesada en la ciberseguridad y la tecnología. En mi tiempo libre me gusta aprender cosas nuevas para seguir mejorando mis habilidades.  
 
 <br>
 
