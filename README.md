@@ -1,13 +1,14 @@
 # Bienvenidos a mi perfil en GitHub! 👩🏻‍🎓 :rocket:
 
-¡Hola! Soy Laura, una estudiante de Ingeniería Informática interesada en la ciberseguridad y la tecnología. En mi tiempo libre me gusta aprender cosas nuevas para seguir mejorando mis habilidades.  
+¡Hola! Soy Laura, una estudiante de Ingeniería Informática interesada en la ciberseguridad y las nuevas tecnologías. 
 
 <br>
 
 # Sobre mí 👩🏻‍💻
 
-- Actualmente estoy estudiando Ingeniería Informática por la mención de Tecnologías de la Información en la Universidad de Valladolid.
-- Estoy interesada en aprender cosas nuevas sobre ciberseguridad y las nuevas tecnologías.  
+- Actualmente estoy en 4º de Ingeniería Informática en la mención de Tecnologías de la Información.
+- En mi tiempo libre me gusta aprender cosas nuevas sobre el mundo de la ciberseguridad y la seguridad de la información.
+- La frase que mejor me representa es: "The best way to predict the future is to create it"  
 
 <br>
 
