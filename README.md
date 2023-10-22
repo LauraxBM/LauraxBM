@@ -15,10 +15,6 @@
 
 # Contacta conmigo 📩
 
-![Correo](https://img.shields.io/badge/EMAIL-laurabezmat@gmail.com_-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=101010)
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Laura_Bezanilla-1877F2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010)](http://www.linkedin.com/in/laura-bezanilla-matell%C3%A1n)
 
 
