@@ -7,7 +7,8 @@
 # Sobre mí 👩🏻‍💻
 
 - Actualmente estoy en 4º de Ingeniería Informática en la mención de Tecnologías de la Información.
-- En mi tiempo libre me gusta aprender cosas nuevas sobre el mundo de la ciberseguridad y la seguridad de la información.
+- Aprovecho mi tiempo libre para investigar y probar el funcionamiento de nuevas herramientas del mundo de la ciberseguridad y la seguridad de la información.
+  
 - La frase que mejor me representa es: "The best way to predict the future is to create it"  
 
 <br>
