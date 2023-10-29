@@ -9,7 +9,7 @@
 - Actualmente estoy en 4º de Ingeniería Informática en la mención de Tecnologías de la Información.
 - Aprovecho mi tiempo libre para investigar y probar el funcionamiento de nuevas herramientas del mundo de la ciberseguridad y la seguridad de la información.
   
-- La frase que mejor me representa es: *"The best way to predict the future is to create it"*
+- La frase que mejor me representa es: *"The best way to predict your future is to create it"*
 
 <br>
 
